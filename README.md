@@ -26,7 +26,7 @@ Step5:
 
 Predict the CO2 emission of a car where the weight is 3300kg, and the vlume is 1300cm3.
 
-Steop6:
+Step6:
 
 Print the predicted output.
 
