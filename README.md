@@ -49,7 +49,7 @@ print("Amount:",regr.predict([[3300,1300]]))
 ```
 ## Output:
 
-![Screenshot 2023-06-10 165737](https://github.com/nkishore2210/Multivariate-Linear-Regression/assets/118707090/3c574582-1109-417d-9bca-536d503df30d)
+![Screenshot 2023-06-10 165954](https://github.com/nkishore2210/Multivariate-Linear-Regression/assets/118707090/e4ac5ee6-e775-4a83-8d40-099c020d446b)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
